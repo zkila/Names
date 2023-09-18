@@ -1,6 +1,6 @@
 # PBKK-latihan3
 
-Nama : Arkana Bilal Imani
+Nama : Arkana Bilal Imani  
 NRP  : 5025211034
 
 ## Deskripsi Singkat
